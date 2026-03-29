@@ -5,13 +5,13 @@ An end-to-end data analysis project on PhonePe's transaction, user, and insuranc
 ---
 
 ## Project Structure
-
+```
 phonepe-transaction-insights/
 ├── phonepe_extraction.py       # Data extraction & SQLite DB creation
 ├── business_case_queries.py    # SQL queries for 5 business case studies
 ├── PhonePe_EDA.ipynb           # EDA notebook with 20 charts
 └── phonepe_dashboard.py        # Interactive Streamlit dashboard
-
+```
 ---
 
 ## Tech Stack
